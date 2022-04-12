@@ -1,0 +1,23 @@
+{
+  "name": "notwiki",
+  "version": "1.0.0",
+  "description": "Documentation about my job",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev sources",
+    "docs:build": "vuepress build sources"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraptama/notwiki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indraptama/notwiki/issues"
+  },
+  "homepage": "https://github.com/indraptama/notwiki#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
