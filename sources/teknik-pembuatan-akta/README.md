@@ -1,4 +1,4 @@
-# Pendahuluan
+# Pengertian Umum
 
 Akta Notaris dan Akta PPAT adalah pejabat umum yang diberi kewenangan oleh undang-undang untuk membuat akta otentik. Oleh karena dibuat dihadapan pejabat umum maka akta otentik memiliki kekuatan pembuktian yang kuat di Pengadilan. Suatu akta otentik harus memenuhi persyaratan-persyaratan sebagai berikut:
 - Akta itu harus dibuat oleh atau di hadapan seorang pejabat umum.
