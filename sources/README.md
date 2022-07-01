@@ -28,6 +28,7 @@ NotWiki adalah dokumentasi singkat seputar bidang kenotariatan. NotWiki dibuat k
 - Harta Perkawinan & Perceraian
 - Hubungan Kekerabatan
 - Waris
+- Legitimate Portie
 - [Wasiat](/harta-benda-keluarga/wasiat)
 
 #### Badan Usaha & Badan Hukum
@@ -72,6 +73,7 @@ NotWiki adalah dokumentasi singkat seputar bidang kenotariatan. NotWiki dibuat k
 - [Komparisi](/teknik-pembuatan-akta/komparisi)
 - Format Penulisan Akta
 - Format Akta PPAT
+- Penyusunan Minuta Akta
 
 #### Penerapan Prinsip Mengenali Pengguna Jasa Oleh Notaris
 
