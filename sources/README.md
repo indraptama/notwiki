@@ -24,27 +24,27 @@ NotWiki adalah dokumentasi singkat seputar bidang kenotariatan. NotWiki dibuat k
 
 #### Harta Benda & Keluarga
 
-- [Pengertian Umum](/harta-benda-keluarga)
+- [Pengertian Umum](/notwiki/harta-benda-keluarga)
 - Harta Perkawinan & Perceraian
 - Hubungan Kekerabatan
 - Waris
 - Legitimate Portie
-- [Wasiat](/harta-benda-keluarga/wasiat)
+- [Wasiat](/notwiki/harta-benda-keluarga/wasiat)
 
 #### Badan Usaha & Badan Hukum
 
-- [Firma](/badan-usaha-badan-hukum/firma)
-- [Koperasi](/badan-usaha-badan-hukum/koperasi)
-- [Kualifikasi Baku Lapangan Kerja Indonesia 2020 (KBLI 2020)](/badan-usaha-badan-hukum/kbli)
-- [Organisasi Masyarakat (Ormas)](/badan-usaha-badan-hukum/ormas)
-- [OSS](/badan-usaha-badan-hukum/oss)
-- [Perkumpulan](/badan-usaha-badan-hukum/perkumpulan)
-- [Persekutuan Perdata (CV)](/badan-usaha-badan-hukum/cv)
-- [Perseroan Terbatas (PT)](/badan-usaha-badan-hukum/perseroan-terbatas)
-- [Perusahaan Terbatas Perorangan](/badan-usaha-badan-hukum/pt-perorangan)
-- [Yayasan](/badan-usaha-badan-hukum/yayasan)
-- [Dana Pensiun](/badan-usaha-badan-hukum/dana-pensiun)
-- [Badan Usaha Milik Desa (BUMDES)](/badan-usaha-badan-hukum/bumdes)
+- [Firma](/notwiki/badan-usaha-badan-hukum/firma)
+- [Koperasi](/notwiki/badan-usaha-badan-hukum/koperasi)
+- [Kualifikasi Baku Lapangan Kerja Indonesia 2020 (KBLI 2020)](/notwiki/badan-usaha-badan-hukum/kbli)
+- [Organisasi Masyarakat (Ormas)](/notwiki/badan-usaha-badan-hukum/ormas)
+- [OSS](/notwiki/badan-usaha-badan-hukum/oss)
+- [Perkumpulan](/notwiki/badan-usaha-badan-hukum/perkumpulan)
+- [Persekutuan Perdata (CV)](/notwiki/badan-usaha-badan-hukum/cv)
+- [Perseroan Terbatas (PT)](/notwiki/badan-usaha-badan-hukum/perseroan-terbatas)
+- [Perusahaan Terbatas Perorangan](/notwiki/badan-usaha-badan-hukum/pt-perorangan)
+- [Yayasan](/notwiki/badan-usaha-badan-hukum/yayasan)
+- [Dana Pensiun](/notwiki/badan-usaha-badan-hukum/dana-pensiun)
+- [Badan Usaha Milik Desa (BUMDES)](/notwiki/badan-usaha-badan-hukum/bumdes)
 
 #### Agraria & Tata Ruang
 
@@ -68,9 +68,9 @@ NotWiki adalah dokumentasi singkat seputar bidang kenotariatan. NotWiki dibuat k
 
 #### Teknik Pembuatan Akta
 
-- [Pengertian Umum](/teknik-pembuatan-akta/)
-- [Struktur Akta Otentik](/teknik-pembuatan-akta/struktur-akta-otentik)
-- [Komparisi](/teknik-pembuatan-akta/komparisi)
+- [Pengertian Umum](/notwiki/teknik-pembuatan-akta/)
+- [Struktur Akta Otentik](/notwiki/teknik-pembuatan-akta/struktur-akta-otentik)
+- [Komparisi](/notwiki/teknik-pembuatan-akta/komparisi)
 - Format Penulisan Akta
 - Format Akta PPAT
 - Penyusunan Minuta Akta
