@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/notwiki/',
+  base: '/',
   title: "NotWiki",
   description:
     " Dokumentasi singkat seputar bidang kenotariatan. Dokumentasi ini dibuat untuk dipergunakan sebagai panduan internal Kantor Notaris Indra Pratama Putra SH, MKn.",
